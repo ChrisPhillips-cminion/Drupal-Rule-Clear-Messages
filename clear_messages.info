@@ -1,0 +1,5 @@
+name = Clear Messages
+description = "Rule to Clear Messages"
+package = Clear System Messages
+dependencies[] = "rules"
+core = 7.x
